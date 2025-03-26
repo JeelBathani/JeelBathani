@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm jeel Bathani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Spring and Springboot**
 
 - 📫 How to reach me **jeelbathani01@gmail.com**
 
